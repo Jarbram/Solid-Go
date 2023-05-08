@@ -1,0 +1,8 @@
+La historia de Go se remonta a 2007, cuando tres ingenieros de Google, Robert Griesemer, Rob Pike y Ken Thompson, comenzaron a trabajar en un nuevo lenguaje de programación. El objetivo era crear un lenguaje que fuera más rápido y más eficiente que los lenguajes existentes, pero que también fuera fácil de aprender y usar.
+
+El primer lanzamiento público de Go fue en 2009, y desde entonces ha ganado popularidad en la comunidad de programación. Go se ha utilizado para construir una amplia variedad de aplicaciones, desde servidores web hasta herramientas de línea de comandos.
+
+Una de las principales características de Go es su enfoque en la concurrencia. Go tiene una sintaxis simple y eficiente para trabajar con múltiples hilos de ejecución, lo que lo hace ideal para construir aplicaciones que requieren procesamiento en paralelo.
+
+En resumen, la historia de Go es una historia de innovación y enfoque en la simplicidad y la eficiencia. A medida que más programadores adoptan Go, es probable que veamos más innovaciones en el futuro.
+
